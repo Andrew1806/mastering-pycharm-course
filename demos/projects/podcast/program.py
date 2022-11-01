@@ -11,7 +11,7 @@ def main():
 
 def print_header():
     print("------------------------------------------")
-    print(f"  TALK PYTHON PODCAST DOWNLOADER v{__VERSION__}")
+    print(f"  TALK-TALK PYTHON PODCAST DOWNLOADER v{__VERSION__}")
     print("------------------------------------------")
 
 
